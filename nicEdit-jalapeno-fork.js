@@ -1226,7 +1226,7 @@ var nicEditorFontFamilySelect = nicEditorSelect.extend({
         "times new roman": "Times",
         "trebuchet ms": "Trebuchet",
         verdana: "Verdana",
-        "Architects Daughter": "ArchitectsDaughter"
+        "Architects Daughter": "Architects Daughter"
     },
     init: function () {
         this.setDisplay("Font&nbsp;Family...");
